@@ -1,0 +1,15 @@
+PytorchLearning/
+├── data/
+│   └── MNIST/
+│       └── raw/
+├── models/
+│   └── lenet.py
+├── scripts/
+│   ├── train.py
+│   └── test.py
+├── results/
+│   └── testpho.png
+├── README.md
+├── requirements.txt
+├── .gitignore
+└── LICENSE

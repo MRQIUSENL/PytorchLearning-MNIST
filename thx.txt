@@ -1,0 +1,5 @@
+## 项目背景
+本项目基于 Yann LeCun 等人提出的 LeNet 模型，使用 PyTorch 实现。LeNet 是卷积神经网络（CNN）的经典模型之一，最初用于手写数字识别（MNIST 数据集）。
+
+## 参考文献
+- Y. LeCun, L. Bottou, Y. Bengio, and P. Haffner. "Gradient-based learning applied to document recognition." Proceedings of the IEEE, 1998.
